@@ -122,6 +122,10 @@
     margin: 0;
   }
   
+  /* Product List */
+  app-product-list {
+    padding: 10px;
+  }
   /* Checkout Cart, Shipping Prices */
   
   .cart-item, .shipping-item {
